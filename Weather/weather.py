@@ -4,7 +4,7 @@ try:
     import requests                               #
     import sys                                    #
     from datetime import datetime                 #
-    api="7c695bfca438ccb546c874c4093e4ac9"        #
+    api="YOUR_API_KEY"                            #  #Paste your api key inside the "" inverted commas.
     ###############################################
     pf = pyfiglet.figlet_format("MY WEATHER")
     print(pf,"\n version 1.0")
