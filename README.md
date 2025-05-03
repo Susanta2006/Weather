@@ -1,8 +1,11 @@
-*Desclaimer:* Please don't Believe on fork version,if you use fork version and it not works then I am not responsible because the fork version is not mine, someone else have created it. 
+# Weather:
+This is a weather detection tool, that can find weather of any location.
+# *Desclaimer:* 
+Please don't Believe on fork version,if you use fork version and it not works then I am not responsible because the fork version is not mine, someone else have created it. 
 
 *The original version is here.*
 
-*Working:*
+# *Working:*
 
 First of all download all the requirements into your machine by typing : pip install -r requirement.txt, on your terminal,
 this will downloads all the modules required.
@@ -32,7 +35,7 @@ git clone "URL", replace URL with the copied link that you copied from the GitHu
    
 *YOU NEED TO BE CONNECTED TO INTERNET*
 
-Images :
+# Images :
 ![Screenshot 2025-05-03 002016](https://github.com/user-attachments/assets/c862793c-294d-46da-b047-7f413ec9c304)
 **********************************************************************************************************************************************************************************************************
 
@@ -42,6 +45,6 @@ Images :
 ![Screenshot 2025-05-03 002059](https://github.com/user-attachments/assets/62d903c9-cadf-44e8-b1c8-271f7688e797)
 **********************************************************************************************************************************************************************************************************
 
-IF YOU LIKE IT PLEASE DONATE ME ON GPAY :
+# IF YOU LIKE IT PLEASE DONATE ME ON GPAY :
 ![gpay-qr](https://github.com/user-attachments/assets/4567f1c2-e989-4074-bb8f-537a1d8d72d6)
 **********************************************************************************************************************************************************************************************************
